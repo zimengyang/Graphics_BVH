@@ -4,7 +4,7 @@ CIS 560 project - BVH acceleration structure & Anti-Aliasing
 Apply Bounding Volume Hierarchy to accelerate render.
 
 **Sample BVH for Wahoo**
-![wahoo](Renders/BVH_wahoo_level13.jpg)
+<img src="Renders/BVH_wahoo_level13.jpg" height="600"></img>
 
 **Sample renders**
 ------------------------------
