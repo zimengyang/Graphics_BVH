@@ -18,6 +18,8 @@ Apply Bounding Volume Hierarchy to accelerate render.
 ### Accelerated Mesh Rendering
 | Reflective BxDF | Normal Map |
 |------------------------|-----------------------|
-|![](Renders/dragon_material2_3291ms.bmp)|![](Renders/dragon_texture_2808ms.bmp)|
+|![](Renders/dragon_material1_3660ms.bmp)|![](Renders/dragon_texture_2808ms.bmp)|
 
-
+| Reflective BxDF with background| UV test background|
+|--------------------------------|---------------------|
+|![](Renders/dragon_material2_3291ms.bmp)|![](Renders/dragon_material3_3608ms.bmp)|
